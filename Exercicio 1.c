@@ -17,5 +17,5 @@ int main(){
 
     printf("A -> B: %d\n", A);
     printf("B -> A: %d", B);
-    printf("teste")
+    printf("teste");
 }
